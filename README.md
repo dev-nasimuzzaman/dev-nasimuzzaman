@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nasimuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="dev-nasimuzzaman" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently working in **Java, Spring**
 
 - 📫 Reach me through **nasimuzzaman98@gmail.com**
 
