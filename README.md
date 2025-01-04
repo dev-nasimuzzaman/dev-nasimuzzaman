@@ -23,44 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nasimuzzaman&show_icons=true&locale=en" alt="dev-nasimuzzaman" /></p>
 
 
-
-### My Stacks
-
-```json
-{
-  "languages": ["Java", "Python", "Javascript", "Typescript"],
-  "frameworks/libraries": {
-    "backend": ["Spring"],
-    "frontend": ["React.js", "Next.js", "Jquery"],
-},
-  "database": ["Mysql", "PostgreSQL", "Oracle"],
-  "misc": ["Unit Testing", "CI/CD"],
-  "tools": ["Visual Studio Code", "Pycharm"]
-}
-```
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-
-
-
-# 👋 Hello, I'm MD. Nasimuzzaman!
-
-Welcome to my GitHub profile! I’m a **Software Engineer**, **Machine Learning Enthusiast**, and **NLP Researcher** with a passion for crafting impactful solutions through technology and innovation. My expertise lies in **Backend Development**, **AI/ML Solutions**, and **Natural Language Processing (NLP)**, and I’m always eager to learn and share knowledge with the tech community. 
+I’m a **Software Engineer**, **Machine Learning Enthusiast**, and **NLP Researcher** with a passion for crafting impactful solutions through technology and innovation. My expertise lies in **Backend Development**, **AI/ML Solutions**, and **Natural Language Processing (NLP)**, and I’m always eager to learn and share knowledge with the tech community. 
 
 ---
 
