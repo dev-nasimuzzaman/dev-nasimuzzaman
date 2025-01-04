@@ -24,21 +24,6 @@
 
 
 
-
-[![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](https://mahmudul.dev/)
-
-# Hello, folks! 
-My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, living in Dhaka and currently working as a Full-time Software Engineer at Tero Labs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-## Things you should know
-
-- 🔭 <b>Currently working on:</b> React.js, Next.js, Django, Django REST
-- 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
-- 🤔 <b>Exploring:</b> Solidity
-- ⚗️ <b>Experimenting on:</b> Automated Resume Parsing
-- 💬 <b>Ask me about:</b> Python, Javascript
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:expelmahmud@gmail.com" target="_blank">expelmahmud@gmail.com</a>
-
 ### My Stacks
 
 ```json
@@ -75,14 +60,14 @@ My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, livi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dev-nasimuzzaman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahmud&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github.com/dev-nasimuzzaman/job.portal" />
 </a>
 <a href="https://github.com/dev-nasimuzzaman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nasimuzzaman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
 </a>
 
 <a href="https://github.com/dev-nasimuzzaman/Django-Poll-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-nasimuzzaman&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/dev-nasimuzzaman/DevConnector-Django">
