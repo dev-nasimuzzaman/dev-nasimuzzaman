@@ -57,24 +57,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/dev-nasimuzzaman">
-  <img align="center" src="https://github.com/dev-nasimuzzaman/job.portal" />
-</a>
-<a href="https://github.com/dev-nasimuzzaman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nasimuzzaman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
-</a>
-
-<a href="https://github.com/dev-nasimuzzaman/Django-Poll-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-nasimuzzaman&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dev-nasimuzzaman/DevConnector-Django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=DevConnector-Django&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!-- links to social media icons -->
+- links to social media icons -->
 
 <!-- icons with padding -->
 
