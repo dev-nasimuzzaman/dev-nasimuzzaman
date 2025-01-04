@@ -71,7 +71,6 @@
 [3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
-
-[1]: https://twitter.com/expelmahmud
-[2]: https://github.com/dev-nasimuzzaman
-[3]: https://www.linkedin.com/in/devmahmud/
+[1]: https://github.com/dev-nasimuzzaman
+[2]: https://www.facebook.com/nasim0024/
+[3]: https://www.linkedin.com/in/md-nasimuzzaman/
