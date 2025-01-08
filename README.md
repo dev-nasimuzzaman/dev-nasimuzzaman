@@ -5,7 +5,7 @@
 
 - 🌱 Currently I'm working in **Java & Spring**
 
-- 📫 Email me at: *nasimuzzaman98@gmail.com*
+- 📫 Email me at: ***nasimuzzaman98@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
