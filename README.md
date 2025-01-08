@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-nasimuzzaman&show_icons=true&locale=en&layout=compact" alt="dev-nasimuzzaman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nasimuzzaman&show_icons=true&locale=en" alt="dev-nasimuzzaman" width="400" height="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nasimuzzaman&show_icons=true&locale=en" alt="dev-nasimuzzaman" /></p>
 
